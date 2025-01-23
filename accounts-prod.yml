@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to BrandonBank accounts related prod APIs "
   contactDetails:
     name: "Brandon Browns Sr - Product Owner"
-    email: "6ca5e01936a9ca3f58b516b3cc4aee408d70dffec257b147faad4e0055e3dba24071e6c82818335eccf4768013d78477"
+    email: "{cipher}6ca5e01936a9ca3f58b516b3cc4aee408d70dffec257b147faad4e0055e3dba24071e6c82818335eccf4768013d78477"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
